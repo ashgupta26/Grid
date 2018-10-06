@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="122508" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:26:16Z">
+    <groups>
+    </groups>
+    <test name="Test3" duration-ms="90104" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:25:44Z">
+      <class name="com.vodafone.automation.grid.package1.Test1">
+        <test-method status="PASS" signature="bt(java.lang.String, java.lang.String)[pri:0, instance:com.vodafone.automation.grid.package1.Test1@32eebfca]" name="bt" is-config="true" duration-ms="44395" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:24:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ http://192.168.0.128:3184]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@32eebfca]" name="test1" duration-ms="45661" started-at="2018-10-06T06:24:58Z" finished-at="2018-10-06T06:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="at()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@32eebfca]" name="at" is-config="true" duration-ms="47" started-at="2018-10-06T06:25:44Z" finished-at="2018-10-06T06:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- com.vodafone.automation.grid.package1.Test1 -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="95199" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:25:49Z">
+      <class name="com.vodafone.automation.grid.package1.Test1">
+        <test-method status="PASS" signature="bt(java.lang.String, java.lang.String)[pri:0, instance:com.vodafone.automation.grid.package1.Test1@43738a82]" name="bt" is-config="true" duration-ms="43759" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:24:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://192.168.0.117:4931]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@43738a82]" name="test1" duration-ms="51205" started-at="2018-10-06T06:24:57Z" finished-at="2018-10-06T06:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="at()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@43738a82]" name="at" is-config="true" duration-ms="218" started-at="2018-10-06T06:25:49Z" finished-at="2018-10-06T06:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- com.vodafone.automation.grid.package1.Test1 -->
+    </test> <!-- Test4 -->
+    <test name="Test" duration-ms="98446" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:25:52Z">
+      <class name="com.vodafone.automation.grid.package1.Test1">
+        <test-method status="PASS" signature="bt(java.lang.String, java.lang.String)[pri:0, instance:com.vodafone.automation.grid.package1.Test1@1a3869f4]" name="bt" is-config="true" duration-ms="42917" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:24:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://192.168.0.121:24180]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@1a3869f4]" name="test1" duration-ms="55217" started-at="2018-10-06T06:24:56Z" finished-at="2018-10-06T06:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="at()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@1a3869f4]" name="at" is-config="true" duration-ms="296" started-at="2018-10-06T06:25:52Z" finished-at="2018-10-06T06:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- com.vodafone.automation.grid.package1.Test1 -->
+    </test> <!-- Test -->
+    <test name="Test2" duration-ms="112583" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:26:06Z">
+      <class name="com.vodafone.automation.grid.package1.Test1">
+        <test-method status="PASS" signature="bt(java.lang.String, java.lang.String)[pri:0, instance:com.vodafone.automation.grid.package1.Test1@7a30d1e6]" name="bt" is-config="true" duration-ms="27721" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:24:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://192.168.0.118:7059]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@7a30d1e6]" name="test1" duration-ms="84635" started-at="2018-10-06T06:24:41Z" finished-at="2018-10-06T06:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="at()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@7a30d1e6]" name="at" is-config="true" duration-ms="214" started-at="2018-10-06T06:26:06Z" finished-at="2018-10-06T06:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- com.vodafone.automation.grid.package1.Test1 -->
+    </test> <!-- Test2 -->
+    <test name="Test5" duration-ms="122508" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:26:16Z">
+      <class name="com.vodafone.automation.grid.package1.Test1">
+        <test-method status="PASS" signature="bt(java.lang.String, java.lang.String)[pri:0, instance:com.vodafone.automation.grid.package1.Test1@17d0685f]" name="bt" is-config="true" duration-ms="50914" started-at="2018-10-06T06:24:14Z" finished-at="2018-10-06T06:25:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://192.168.0.137:5871]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@17d0685f]" name="test1" duration-ms="71078" started-at="2018-10-06T06:25:04Z" finished-at="2018-10-06T06:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="at()[pri:0, instance:com.vodafone.automation.grid.package1.Test1@17d0685f]" name="at" is-config="true" duration-ms="516" started-at="2018-10-06T06:26:16Z" finished-at="2018-10-06T06:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- com.vodafone.automation.grid.package1.Test1 -->
+    </test> <!-- Test5 -->
+  </suite> <!-- Suite -->
+</testng-results>

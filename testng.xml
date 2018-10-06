@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="5">
+  <test thread-count="5" name="Test">
+  <parameter name="browser" value="gc"></parameter>
+  <parameter name="ip" value="http://192.168.0.121:24180"></parameter>
+    <classes>
+      <class name="com.vodafone.automation.grid.package1.Test1"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="Test2">
+  <parameter name="browser" value="gc"></parameter>
+  <parameter name="ip" value="http://192.168.0.118:7059"></parameter>
+    <classes>
+      <class name="com.vodafone.automation.grid.package1.Test1"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="Test3">
+  <parameter name="browser" value="gc"></parameter>
+  <parameter name="ip" value=" http://192.168.0.128:3184"></parameter>
+    <classes>
+      <class name="com.vodafone.automation.grid.package1.Test1"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="Test4">
+  <parameter name="browser" value="gc"></parameter>
+  <parameter name="ip" value="http://192.168.0.117:4931"></parameter>
+    <classes>
+      <class name="com.vodafone.automation.grid.package1.Test1"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="Test5">
+  <parameter name="browser" value="gc"></parameter>
+  <parameter name="ip" value="http://192.168.0.137:5871"></parameter>
+    <classes>
+      <class name="com.vodafone.automation.grid.package1.Test1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
